@@ -1,0 +1,5 @@
+google-genai>=1.30.0
+python-dotenv>=1.1.0
+gradio>=5.40.0
+sentence-transformers>=5.0.0
+numpy>=2.0.0
